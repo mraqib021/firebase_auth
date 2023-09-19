@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@200;300&family=Lobster&display=swap');
+
+
+
+*{
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    min-height: 100vh;
+    height: 100%;
+    color: #4d4dac;
+    width: 100%;
+}
+
+.SwitchParent{
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px 0;
+}
+
+
+
+.NotFound404{
+    font-family: 'Lobster', cursive !important;
+}
